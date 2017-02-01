@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:padding="4dp"
+    android:fontFamily="serif"
+    android:gravity="left"
+    android:scrollbars="vertical"
+    android:background="?android:attr/activatedBackgroundIndicator"
+    android:textColor="@android:color/black"
+    android:textColorLink="@android:color/holo_blue_light"
+    android:textColorHighlight="@android:color/holo_blue_dark">
+
+</TextView>
